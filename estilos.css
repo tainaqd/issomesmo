@@ -1,0 +1,32 @@
+html{
+  background-image: url(imgs/backgroundimage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+}
+body{
+  margin: 0 auto;
+  background-color: #088A85;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: left;
+  font-family: arial, serif;
+  border-left: 3px double #071914;
+  border-right: 3px double #071914;
+  padding: 10px;
+}
+h1{
+  text-align: center;
+  margin-top: 0;
+  color: #2A120A;
+}
+#centralizar{
+  text-align: center;
+}
+#foto{
+  float: left;
+  width: 175px;
+  border-radius: 75%;
+  border: 3px solid #0B3B39;
+  margin-right: 3px;
+}
